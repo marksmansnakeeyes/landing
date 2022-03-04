@@ -31,7 +31,7 @@ If you already have the game installed from steam or had a previous update of Pl
 
 This section will cover downloading a copy of BO2. Please skip this section if you already have a copy of the game.
 
-**Please note we highly recommend buying the game if you do not own it, it is the best way to get a copy of the game files that are up to date and not corrupt or changed in some way. Key sites will give you a decent discount in 2021.**
+**Please note we highly recommend buying the game if you do not own it; it is the best way to get a copy of the game files that are up to date and not corrupt or changed in some way. Key sites will give you a decent discount in 2022.**
 
 1. From the windows file explorer navigate to My PC, then to **Local Disc (C:)** and create a new folder called `Games`
 
@@ -43,8 +43,8 @@ This section will cover downloading a copy of BO2. Please skip this section if y
 
 <Alert variant="warning">
 
-Torrenting copyright protected files might not be legal in your country even if you already own a valid license!
-We are not responsible for any legal issues and recommend you to use a <a href="steam://install/202990">fresh install from Steam</a> or a VPN.
+Torrenting copyright-protected files might not be legal in your country even if you already own a valid license!
+We are not responsible for any legal issues and recommend you use a <a href="steam://install/202990">fresh install from Steam</a> or a VPN.
 
 </Alert>
 
@@ -53,12 +53,12 @@ qBittorent Windows x64 is recommended: [https://www.fosshub.com/qBittorrent.html
 
 3. Download the [torrent file](/pluto_t6_full_game.torrent).
 
-4. Open the torrent file `pluto_t6_full_game.torrent` (from the previous step) it will open up your torrent client program and ask you where you'd like to save the game.
-**SELECT THE GAMES FOLDER AS THE SAVE LOCATION, YOU CREATED IT IN STEP 1**
+4. Open the torrent file `pluto_t6_full_game.torrent` (from the previous step). It will open up your torrent client program and ask you where you'd like to save the game.
+**SELECT THE GAMES FOLDER YOU CREATED IT IN STEP 1 AS THE SAVE LOCATION**
 
-5. Start the download and wait till the download completes you will know it's done when the progress changes to `100%` and the status changes to `Seeding`.
+5. Start the download and wait until the download completes. You will know it's done when the progress changes to `100%` and the status changes to `Seeding`.
 
-Once it's done you will have your copy of the game downloaded, here is an example of a completed base game folder:
+Once it's done you will have your copy of the game downloaded. Here is an example of a completed base game folder:
 
 ![Completed Game Folder](/images/docs/install/B8g1bXI.png)
 
@@ -319,6 +319,6 @@ As the error says you have an invalid game path selected in the launcher. To fix
 
 ---
 
-**Congratulations you have completed the installation guide.**
+**Congratulations! You have completed the installation guide.**
 
-To launch WAW simply open the Plutonium launcher and select PLAY
+To launch WAW, simply open the Plutonium launcher and select PLAY.
